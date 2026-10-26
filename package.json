@@ -1,7 +1,7 @@
 {
   "name": "automation-csv-dedupe",
   "version": "1.0.0",
-  "description": "Dédoublonnage de CSV / CSV de-duplication — script Node.js sans dépendance",
+  "description": "CSV de-duplication: dependency-free Node.js script",
   "type": "module",
   "license": "MIT",
   "author": "Elzam MAMAH <ceo@monsieurelzam.com> (https://monsieurelzam.com)",
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/MonsieurElzam/automation-csv-dedupe.git"
   },
-  "homepage": "https://monsieurelzam.com/scripts",
+  "homepage": "https://monsieurelzam.com/en/scripts",
   "keywords": [
     "automation",
     "cli",
